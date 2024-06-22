@@ -1,5 +1,5 @@
 # Portfolio-Web
 
 Angly Khan Surya
-Undergraduate Student of Telkom University
-Bachelor of Informatics
+<br> Undergraduate Student of Telkom University
+<br> Bachelor of Informatics
