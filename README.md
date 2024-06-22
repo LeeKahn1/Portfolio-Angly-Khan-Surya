@@ -1,2 +1,5 @@
-# Portfolio-Angly-Khan-Surya
-Web Profil Portofolio
+# Portfolio-Web
+
+Angly Khan Surya
+Undergraduate Student of Telkom University
+Bachelor of Informatics
